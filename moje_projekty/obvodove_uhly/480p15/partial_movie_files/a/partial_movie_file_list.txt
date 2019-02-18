@@ -1,0 +1,2 @@
+file '/home/adam/builds/manim/moje_projekty/obvodove_uhly/480p15/partial_movie_files/a/00000.mp4'
+file '/home/adam/builds/manim/moje_projekty/obvodove_uhly/480p15/partial_movie_files/a/00001.mp4'
